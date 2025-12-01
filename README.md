@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Angel Ochieng </h1>
+<h1 align="center">Angel Ochieng Coding Portfolio </h1>
 <h3 align="center">Computational Modeling & Data Analytics Student | Virginia Tech</h3>
 <p align="center">📍 Washington DC  |  Passionate about Data, Computing, and Impactful Solutions</p>
 
