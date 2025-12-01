@@ -13,7 +13,7 @@ My passion lies in creating meaningful impact whether for organizations, stakeho
 
 ---
 
-## 🚀 Technical Skills
+##  Technical Skills
 
 ### **Languages**
 - Python  
