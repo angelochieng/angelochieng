@@ -48,5 +48,5 @@ My passion lies in creating meaningful impact whether for organizations, stakeho
 I love learning how computing, mathematics, and data come together to solve real-world problems.
 
 Thanks again for visiting my profile!  
-Feel free to explore, connect, or collaborate 🚀
+Feel free to explore, connect, or collaborate �
 
